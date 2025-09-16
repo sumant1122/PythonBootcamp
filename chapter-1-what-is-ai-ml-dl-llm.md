@@ -35,7 +35,7 @@ Think of machine learning like teaching a child to recognize animals. Instead of
 
 #### Deep Learning (DL): Mimicking the Human Brain
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **Deep Learning** is a specialized subset of Machine Learning that uses **artificial neural networks with multiple layers** to automatically learn complex patterns from large amounts of data\[7]\[12]. The term "deep" refers to the multiple layers of interconnected nodes (artificial neurons) that process information\[9].\
 Deep learning is **inspired by the structure and function of the human brain**\[12]. Just as our brains have billions of interconnected neurons that process information, deep learning models have artificial neurons arranged in layers that work together to understand complex patterns\[13].
@@ -69,7 +69,7 @@ Deep learning is **inspired by the structure and function of the human brain**\[
 * Claude (Anthropic)
 * Meta's LLaMA series\[17]
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### The Relationship Between These Technologies
 
